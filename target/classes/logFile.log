@@ -1,0 +1,12 @@
+Apr 01, 2024 6:25:41 PM booking_system.rm.TypeConverter convertID
+INFO: Invalid Employee ID: 744723
+Apr 01, 2024 6:26:12 PM booking_system.rm.TypeConverter convertID
+INFO: Invalid Employee ID: word
+Apr 01, 2024 6:32:42 PM booking_system.rm.DateUtility formatDate
+WARNING: 6/9/1988 java.time.format.DateTimeParseException: Text '6/9/1988' could not be parsed at index 0
+Apr 01, 2024 6:37:46 PM booking_system.rm.DateUtility formatDate
+WARNING: 6/9/1988 java.time.format.DateTimeParseException: Text '6/9/1988' could not be parsed at index 0
+Apr 01, 2024 6:38:39 PM booking_system.rm.DateUtility formatDate
+WARNING: 6/9/1988 java.time.format.DateTimeParseException: Text '6/9/1988' could not be parsed at index 0
+Apr 01, 2024 6:39:51 PM booking_system.rm.DateUtility formatDate
+WARNING: 6/9/1988 java.time.format.DateTimeParseException: Text '6/9/1988' could not be parsed at index 0
